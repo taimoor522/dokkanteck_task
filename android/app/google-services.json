@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "24118407118",
+    "project_id": "dokkan-tech",
+    "storage_bucket": "dokkan-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24118407118:android:02f7b52125fe8ca438459f",
+        "android_client_info": {
+          "package_name": "com.example.dokkan_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24118407118-eljkk0lt73p9rfhgr0jdu8nivgtc4869.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dokkan_tech",
+            "certificate_hash": "ed0c57cdd6765dd2c9ae6716c32168b51d7b7e6d"
+          }
+        },
+        {
+          "client_id": "24118407118-38f8ibfg3eb35tupucseqbvd7d3p1fgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSKj03uKhnXvxkvIKhN3Ux4gUUbiVs5-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24118407118-38f8ibfg3eb35tupucseqbvd7d3p1fgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
